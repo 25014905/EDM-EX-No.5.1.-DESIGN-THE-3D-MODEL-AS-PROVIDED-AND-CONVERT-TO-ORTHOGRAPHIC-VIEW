@@ -36,8 +36,11 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![image](https://github.com/25014905/EDM-EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/blob/main/Screenshot%202026-04-08%20144505.png?raw=true)
 
-NAME
+![image](https://github.com/25014905/EDM-EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/blob/main/Screenshot%202026-04-08%20144733.png?raw=true)
+
+NAME : MIRDULA D
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
 
